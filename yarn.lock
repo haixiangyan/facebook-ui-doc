@@ -3302,9 +3302,10 @@ extsprintf@^1.2.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/extsprintf/-/extsprintf-1.4.0.tgz#e2689f8f356fad62cca65a3a91c5df5f9551692f"
 
-facebook-ui@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/facebook-ui/-/facebook-ui-0.0.2.tgz#aae42ddeb571e89b3776f5db9974a4f41af0c291"
+facebook-ui@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/facebook-ui/-/facebook-ui-0.0.4.tgz#a4dccf7596a6ee1c3c37c06d9a91029c280bbfe7"
+  integrity sha512-Bxh1y6XP8m+6Y0G7zctThx2b2PCY8M2jLNdR/71pxwhSoJt7rPPl07TcxqtKY4otC1Q7oMDHpQMsbHpN25y8tw==
   dependencies:
     react "^16.8.5"
     react-dom "^16.8.5"
